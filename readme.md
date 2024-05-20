@@ -7,7 +7,7 @@ This is a simple Express API that multiplies two numbers together. It includes a
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/your_username/express-multiply-api.git
+   git clone https://github.com/icest99/express-multiply-api.git
    cd express-multiply-api
    ```
 
